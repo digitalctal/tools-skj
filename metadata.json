@@ -1,0 +1,5 @@
+{
+  "name": "DevToolKit",
+  "description": "A modern, modular developer tools dashboard featuring JSON formatting, Base64 conversion, and AI-powered code analysis using the Gemini API.",
+  "requestFramePermissions": []
+}
